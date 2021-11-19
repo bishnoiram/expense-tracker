@@ -9,13 +9,6 @@ A simple expense manager app for Android.
 - Expense reports (filter by: today, week, month, date, date range);
 - Currency chooser. 
 
-### Demo
-
-Youtube - 
-
-Apk File -
-
-
 ### Screenshots
 
 <p>
