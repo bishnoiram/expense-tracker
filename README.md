@@ -15,7 +15,6 @@ Youtube -
 
 Apk File -
 
-More Project - https://projectworlds.in
 
 ### Screenshots
 
